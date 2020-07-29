@@ -120,35 +120,35 @@
         $('#circle').circleProgress({
             size: 150,
             emptyFill: "rgba(0, 0, 0, .0)",
-            fill: '#A573BA',
+            fill: '#2471A3',
             thickness: '10',
             reverse: true
         });
         $('#circle2').circleProgress({
             size: 150,
             emptyFill: "rgba(0, 0, 0, .0)",
-            fill: '#A573BA',
+            fill: '#2471A3',
             thickness: '10',
             reverse: true
         });
         $('#circle3').circleProgress({
             size: 150,
             emptyFill: "rgba(0, 0, 0, .0)",
-            fill: '#A573BA',
+            fill: '#2471A3',
             thickness: '10',
             reverse: true
         });
         $('#circle4').circleProgress({
             size: 150,
             emptyFill: "rgba(0, 0, 0, .0)",
-            fill: '#A573BA',
+            fill: '#2471A3',
             thickness: '10',
             reverse: true
         });
         $('#circle5').circleProgress({
             size: 150,
             emptyFill: "rgba(0, 0, 0, .0)",
-            fill: '#A573BA',
+            fill: '#2471A3',
             thickness: '10',
             reverse: true
         });
