@@ -523,7 +523,7 @@ textarea:focus {
     .hero-area.horizontal .hero-content {
       display: inline-block;
       background-color: #141414;
-      opacity:0.9;
+      /* opacity:0.9; */
       padding: 50px 70px; }
       .hero-area.vertical .hero-content {
         display: inline-block;
